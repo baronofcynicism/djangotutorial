@@ -1,0 +1,21 @@
+{
+  "name": "djangotutorial",
+  "homepage": "https://github.com/baronofcynicism/djangotutorial",
+  "authors": [
+    "trung <baronofcynicism@gmail.com>"
+  ],
+  "description": "see titel",
+  "main": "polls/static/index.html",
+  "keywords": [
+    "noob"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
