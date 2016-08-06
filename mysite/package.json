@@ -1,0 +1,15 @@
+{
+  "name": "firstdjango",
+  "version": "1.0.0",
+  "description": "",
+  "main": "polls/static/index.js",
+  "dependencies": {
+    "babel": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "lol"
+  },
+  "author": "",
+  "license": "ISC"
+}
